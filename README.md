@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahil4083
-- 👀 I’m interested in makeing the front end 
+- 👀 I’m interested in making the front end 
 - 🌱 I’m currently learning js,react js and angular js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
